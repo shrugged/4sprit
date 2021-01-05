@@ -26,7 +26,7 @@ GAME GNIE ENABLE
 19) Hurry up guys
 20) Yours Truly
 21) SUDO make me a sandwitch
-22) PID 1
+22) PID 1 /bin/sh
 23) up, up, down, down, left, right, left, right, b, a, and start
 24) motherlode
 25) 1-999-Sky-fall
@@ -36,6 +36,32 @@ GAME GNIE ENABLE
 29) Fast Pizza Delivery
 30) 7431-3842-8523
 31) Miniature Racers
-32) 
+32) 'real' hacking
+33) statutsz
+34) Photoshopped
+35) Rockbox
+36) coupon cutting
+37) BITCOIN
+38) DeepMind
+39) AlphaGO
+40) Metasploit
+41) Cap'n'Krunch PHREAKing Whissle
+42) Shodan Open access
+43) Copious amount of THC
+44) Neuro Linguistics Programming
+45) Etherium
+46) Gambling
+47) Crypto Mining
+48) Mirror Mirror
+49) Kat Phising
+50) Steal
+51) Roomate
+52) GF
+53) Lockdown
+54) Breaking Speedlimits
+55) smoking
+56) energy drinks
+57) Diablo' Duplicate items
+58) 
 ...
 99) THERE ARE NO MORE BASEMENTS
