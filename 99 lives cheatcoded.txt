@@ -7,7 +7,7 @@ GAME GNIE ENABLE
 lazymess guarenteed
 scroll of all the sins listed 
 ordered
-ofc)
+in degree of severity
 -
 1) power overwhelming
 2) food for thoughts
@@ -102,6 +102,9 @@ ofc)
 92) Duke Nukem
 ...
 99) THERE ARE NO MORE BASEMENTS
+XXX) ..
+XXX) ...
+XXX) ....
 XXX) .....
 555) hahahaah
 1001) more lives
@@ -113,3 +116,4 @@ XXX) .....
 # how many times can i miss the mark 7*77
 # Forgive us our trespasses as 
 # we forgive those who trespass against us.”
+# H4CK THE PLANET
