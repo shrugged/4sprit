@@ -66,7 +66,7 @@ FOR ELSE what promise or or betreyal
  				fallen together
  				nor close apart
 
-BECAUSE any whys should would could
+BECAUSE any whys [should would could]
  				wish
  				wishing
  				wished
@@ -95,7 +95,8 @@ THEREUPON
 		subsequently 
 		stand 
 		standing 
-		stood still
+		stood
+		still
 
 WHEREFORE
 		nowhere
@@ -110,6 +111,7 @@ OF'VE hoped desire-ness bring
 		all forecasting
 		all foreshadowing
 		and all foreseeable futures
+		hopelessly
 
 NOT ELSE IF
 
@@ -137,5 +139,5 @@ DRAWING maybes MAYbe MaYbE maYbeee
 what!
 
 # POKA.DOT
-# a promise of future past timestill timestamped
+# a promise of future past timestill timestamped timesmore
 # ad nauseam
