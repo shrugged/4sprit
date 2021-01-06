@@ -107,8 +107,9 @@ AND
 FORTH
 FINALLY
 FOR ELSE
-ASTRAY
-LOST
+!ASTRAY
+OR
+!LOST
 
 CAUSE ANY BE
 		could, could not
@@ -116,3 +117,5 @@ CAUSE ANY BE
 		would, would not
 		dance, dance not
 		surely!
+		sure
+		hey
