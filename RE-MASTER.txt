@@ -28,6 +28,10 @@ BACK & F4RTH
                                     ?
                                    !
 ;
+SHOOT FROM
+			cupid golden bow
+;
+
 DEDICATED 
 			to the top 10 girl in the word
 			with russian love
