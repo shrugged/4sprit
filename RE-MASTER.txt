@@ -106,7 +106,7 @@ ALWAYS
 BEFORE
 BACK
 NERVER
-FINALLY
+BEGIN
 NOT ELSE
 
 CAUSE ANY BE
@@ -114,6 +114,6 @@ CAUSE ANY BE
 		should, should not
 		would, would not
 		dance, dance not
-		surely!
-		sure
-		hey
+		sure, surely
+		
+# heyy
