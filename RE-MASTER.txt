@@ -90,19 +90,19 @@ NONE ones of the nothingz end endlessly
  				anyplace
  				anysaid
 
-WHEREFORE
-		nowhere
-		nothing
-		notwithstanding 
-		inevitably
-		dissapear
-
 THEREUPON
 		henceforward
 		subsequently 
 		stand 
 		standing 
 		stood still
+
+WHEREFORE
+		nowhere
+		nothing
+		notwithstanding 
+		inevitably
+		dissapear
 
 OF'VE hoped desire-ness bring
 		alltogether
