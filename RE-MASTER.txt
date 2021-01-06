@@ -115,6 +115,4 @@ CAUSE ANY BE
 		should, should not
 		would, would not
 		dance, dance not
-
-# I don't
-# !ad nauseam
+		surely!
