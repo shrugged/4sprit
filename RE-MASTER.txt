@@ -115,5 +115,7 @@ CAUSE ANY BE
 		would, would not
 		dance, dance not
 		sure, surely
-		
+
 # heyy
+# DOG is love; LOVE is DOG
+# I could never get it rightly right
