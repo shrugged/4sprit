@@ -110,5 +110,11 @@ FOR ELSE
 ASTRAY
 LOST
 
+CAUSE ANY BE
+		could, could not
+		should, should not
+		would, would not
+		dance, dance not
+
 # I don't
 # !ad nauseam
