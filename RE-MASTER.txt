@@ -120,7 +120,7 @@ MIRROR MIRROR
 TRIED TIRED
 THE TRIAL
 REQUITE
-BEGIN
+MAYBE
 # heyy
 # DOG is love; LOVE is DOG
 # I could never get it rightly right -_-
