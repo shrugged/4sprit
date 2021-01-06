@@ -125,6 +125,5 @@ QUIET
 MAYBE)
 # heyy
 # DOG is love; LOVE is DOG
-# I could never get it rightly right -_-
 # what is good or bad
 # will i ever known
