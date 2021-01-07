@@ -25,7 +25,7 @@ BACK & F4RTH
   |)                                     ?
                                         ?
                                      ?
-                                    ?
+                                    @
                                    !
 ;
 SHOOT FROM
@@ -137,6 +137,7 @@ RE-MASTERED
 										~~~~~~~
 							DRAWING maybes MAYbe MaYbE maYbeee
 		RELINTQUISH
+		RE-CANDLED
 		RE-VERSE'
 
 	EXHALE
