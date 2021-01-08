@@ -9,11 +9,11 @@ between {
 		said | un-said
 }
 for 
-	>truly truths<
-	*wrongly wrongs*
-	the exact middle of 
-'verse and re-verse are reserved 
-axing percing poignat wordly words 3>
+	>truly truths< ++
+	*wrongly wrongs* --
+the exact middle of 
+	'verse and re-verse are reserved 
+		axing percing poignat wordly words 3>
 -
  .:::.   .:::.
 :::::::.:::::::
