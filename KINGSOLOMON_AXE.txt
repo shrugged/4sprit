@@ -4,7 +4,7 @@ but only in minecraft
 seen with one eye open
 look for the black space
 between the white lines
-the inivisible spacing
+the invincible spacing
 between {
 		said | un-said
 }
