@@ -3,6 +3,7 @@ random procedular dungeons
 artsylly-able
 -
 myDIFFed the rules
++set the stage
 for what come before much buildsup:
 	after the desol-nation of mug mugly ssmug?
 		connect 4
@@ -10,9 +11,10 @@ for what come before much buildsup:
 				epic win or epic fails
 			}
 
-		1. too mushy mush
-		2. too little littles
-		3. one small epic
-		4. one small fall
+		1. do
+		2. say
+		3. make
+		4. think
 
 # the inspected expected un-expecting chaos
+# "You cannot wake up someone who is pretending to be asleep."
