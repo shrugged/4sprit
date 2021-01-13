@@ -17,3 +17,4 @@ diamond face 1000x
 too much current 4A
 hahahaah
 guess i wasn't a gentlemen
+DYS stress now :{}
