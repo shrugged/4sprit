@@ -1,8 +1,12 @@
 damsel_in_DYStress
-A+ B-
-A- B-
-A+ B+
-A- B+
+-
+je ne c'est quoi
+oulalaa
+-
+ A+ | B-
+ A- | B-
+ A+ | B+
+ A- | B+
 spark the cable
 this is my short-cut
 for you
