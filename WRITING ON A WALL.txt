@@ -12,6 +12,7 @@ badKEY-ying
 order aright the 24 SEEDed WORDS
 	no ledger
 1 ATTEMPT LEFT
+--ticktock
 
 abandon
 ability
